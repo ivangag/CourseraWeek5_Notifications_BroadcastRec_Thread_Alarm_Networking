@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392907393960_1" label="Notifications" name="Notifications">
+<item elementID="=NotificationToast" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=NotificationToastWithCustomView" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=NotificationStatusBar" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=NotificationStatusBarWithCustomView" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392907488757_2" label="BroadcastReceiver" name="BroadcastReceiver">
+<item elementID="=BcastRecCompOrdBcastWithResRec" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BcastRecSinBcastStatReg" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BcastRecSinBcastDynReg" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BcastRecCompBcast" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BcastRecStickyInt" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=BcastRecCompOrdBcast" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392901318906_0" label="Window Working Set" name="Aggregate for window 1392901318905"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1392970454539_3" label="Window Working Set" name="Aggregate for window 1392970454538"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393231246266_4" label="Window Working Set" name="Aggregate for window 1393231246265"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393257781444_5" label="Window Working Set" name="Aggregate for window 1393257781444"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393261935798_6" label="Window Working Set" name="Aggregate for window 1393261935798"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1393407548157_7" label="Window Working Set" name="Aggregate for window 1393407548157"/>
+</workingSetManager>

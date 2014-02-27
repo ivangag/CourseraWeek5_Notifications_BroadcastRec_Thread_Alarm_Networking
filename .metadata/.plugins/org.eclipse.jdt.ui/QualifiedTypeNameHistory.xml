@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="course.examples.Notification.StatusBarWithCustomView.R.layout"/>
+<fullyQualifiedTypeName name="course.examples.Notification.StatusBarWithCustomView.NotificationClickableActivity"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="course.examples.Notification.StatusBarWithCustomView.R.id"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="course.examples.Threading.ThreadingAsyncTask.AsyncTaskActivity.LoadIconTask"/>
+<fullyQualifiedTypeName name="org.apache.http.client.methods.HttpPost"/>
+<fullyQualifiedTypeName name="java.lang.Void"/>
+<fullyQualifiedTypeName name="android.os.AsyncTask"/>
+<fullyQualifiedTypeName name="android.net.http.AndroidHttpClient"/>
+<fullyQualifiedTypeName name="course.examples.Networking.AndroidHttpClient.NetworkingAndroidHttpClientActivity"/>
+<fullyQualifiedTypeName name="android.preference.PreferenceActivity.Header"/>
+<fullyQualifiedTypeName name="course.examples.Networking.AndroidHttpClient.NetworkingAndroidHttpClientActivity.HttpPostTask"/>
+<fullyQualifiedTypeName name="org.apache.http.protocol.HTTP"/>
+<fullyQualifiedTypeName name="org.apache.http.entity.StringEntity"/>
+</qualifiedTypeNameHistroy>

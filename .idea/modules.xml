@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlarmCreate/AlarmCreate.iml" filepath="$PROJECT_DIR$/AlarmCreate/AlarmCreate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BcastRecCompBcast/BcastRecCompBcast.iml" filepath="$PROJECT_DIR$/BcastRecCompBcast/BcastRecCompBcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BcastRecCompOrdBcast/BcastRecCompOrdBcast.iml" filepath="$PROJECT_DIR$/BcastRecCompOrdBcast/BcastRecCompOrdBcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BcastRecCompOrdBcastWithResRec/BcastRecCompOrdBcastWithResRec.iml" filepath="$PROJECT_DIR$/BcastRecCompOrdBcastWithResRec/BcastRecCompOrdBcastWithResRec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BcastRecSinBcastDynReg/BcastRecSinBcastDynReg.iml" filepath="$PROJECT_DIR$/BcastRecSinBcastDynReg/BcastRecSinBcastDynReg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BcastRecSinBcastStatReg/BcastRecSinBcastStatReg.iml" filepath="$PROJECT_DIR$/BcastRecSinBcastStatReg/BcastRecSinBcastStatReg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BcastRecStickyInt/BcastRecStickyInt.iml" filepath="$PROJECT_DIR$/BcastRecStickyInt/BcastRecStickyInt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coursera_Week 5_Notifications_BroadcastRec_Thread_Alarm_Networking.iml" filepath="$PROJECT_DIR$/Coursera_Week 5_Notifications_BroadcastRec_Thread_Alarm_Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkingAndroidHttpClient/NetworkingAndroidHttpClient.iml" filepath="$PROJECT_DIR$/NetworkingAndroidHttpClient/NetworkingAndroidHttpClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkingAndroidHttpClientJSON/NetworkingAndroidHttpClientJSON.iml" filepath="$PROJECT_DIR$/NetworkingAndroidHttpClientJSON/NetworkingAndroidHttpClientJSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkingAndroidHttpClientXML/NetworkingAndroidHttpClientXML.iml" filepath="$PROJECT_DIR$/NetworkingAndroidHttpClientXML/NetworkingAndroidHttpClientXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkingSockets/NetworkingSockets.iml" filepath="$PROJECT_DIR$/NetworkingSockets/NetworkingSockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkingURL/NetworkingURL.iml" filepath="$PROJECT_DIR$/NetworkingURL/NetworkingURL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationStatusBar/NotificationStatusBar.iml" filepath="$PROJECT_DIR$/NotificationStatusBar/NotificationStatusBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationStatusBarWithCustomView/NotificationStatusBarWithCustomView.iml" filepath="$PROJECT_DIR$/NotificationStatusBarWithCustomView/NotificationStatusBarWithCustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationToast/NotificationToast.iml" filepath="$PROJECT_DIR$/NotificationToast/NotificationToast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationToastWithCustomView/NotificationToastWithCustomView.iml" filepath="$PROJECT_DIR$/NotificationToastWithCustomView/NotificationToastWithCustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadingAsyncTask/ThreadingAsyncTask.iml" filepath="$PROJECT_DIR$/ThreadingAsyncTask/ThreadingAsyncTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadingHandlerMessages/ThreadingHandlerMessages.iml" filepath="$PROJECT_DIR$/ThreadingHandlerMessages/ThreadingHandlerMessages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadingHandlerRunnable/ThreadingHandlerRunnable.iml" filepath="$PROJECT_DIR$/ThreadingHandlerRunnable/ThreadingHandlerRunnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadingNoThreading/ThreadingNoThreading.iml" filepath="$PROJECT_DIR$/ThreadingNoThreading/ThreadingNoThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadingRunOnUIThread/ThreadingRunOnUIThread.iml" filepath="$PROJECT_DIR$/ThreadingRunOnUIThread/ThreadingRunOnUIThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadingSimple/ThreadingSimple.iml" filepath="$PROJECT_DIR$/ThreadingSimple/ThreadingSimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadingViewPost/ThreadingViewPost.iml" filepath="$PROJECT_DIR$/ThreadingViewPost/ThreadingViewPost.iml" />
+    </modules>
+  </component>
+</project>
+

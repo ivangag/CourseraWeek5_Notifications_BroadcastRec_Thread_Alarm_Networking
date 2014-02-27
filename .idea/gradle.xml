@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/Eclipse/gradle-1.10-all" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AlarmCreate" />
+            <option value="$PROJECT_DIR$/BcastRecCompBcast" />
+            <option value="$PROJECT_DIR$/BcastRecCompOrdBcast" />
+            <option value="$PROJECT_DIR$/BcastRecCompOrdBcastWithResRec" />
+            <option value="$PROJECT_DIR$/BcastRecSinBcastDynReg" />
+            <option value="$PROJECT_DIR$/BcastRecSinBcastStatReg" />
+            <option value="$PROJECT_DIR$/BcastRecStickyInt" />
+            <option value="$PROJECT_DIR$/NetworkingAndroidHttpClient" />
+            <option value="$PROJECT_DIR$/NetworkingAndroidHttpClientJSON" />
+            <option value="$PROJECT_DIR$/NetworkingAndroidHttpClientXML" />
+            <option value="$PROJECT_DIR$/NetworkingSockets" />
+            <option value="$PROJECT_DIR$/NetworkingURL" />
+            <option value="$PROJECT_DIR$/NotificationStatusBar" />
+            <option value="$PROJECT_DIR$/NotificationStatusBarWithCustomView" />
+            <option value="$PROJECT_DIR$/NotificationToast" />
+            <option value="$PROJECT_DIR$/NotificationToastWithCustomView" />
+            <option value="$PROJECT_DIR$/ThreadingAsyncTask" />
+            <option value="$PROJECT_DIR$/ThreadingHandlerMessages" />
+            <option value="$PROJECT_DIR$/ThreadingHandlerRunnable" />
+            <option value="$PROJECT_DIR$/ThreadingNoThreading" />
+            <option value="$PROJECT_DIR$/ThreadingRunOnUIThread" />
+            <option value="$PROJECT_DIR$/ThreadingSimple" />
+            <option value="$PROJECT_DIR$/ThreadingViewPost" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+
